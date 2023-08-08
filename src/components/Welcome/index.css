@@ -1,0 +1,33 @@
+.bg-container {
+  background-color: #1e293b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.happy-learning {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.button {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  font-size: 12px;
+  height: 35px;
+  width: 90px;
+  border-radius: 5px;
+  border-width: 0px;
+  background-color: white;
+}
